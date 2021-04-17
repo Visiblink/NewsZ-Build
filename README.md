@@ -2,4 +2,4 @@
 
 This is the webOS .ipk file for the NewsZ app.
 
-Click "view raw" to download the file.
+Click on the com.visiblink.newsz file and then "view raw" to download the file.
